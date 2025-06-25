@@ -1,0 +1,9 @@
+frmServer = 35, 13, 711, 629, , 46, 49, 742, 661, CI
+modVars = 65, 44, 607, 492, C
+modFiles = 88, 184, 611, 660, C
+modPackets = 129, 128, 665, 588, C
+modServerFunctions = 159, 117, 701, 565, C
+frmLog = 165, 194, 464, 546, C, 31, 23, 727, 635, C
+modText = 66, 66, 589, 542, C
+modGraphics = 150, 230, 449, 582, C
+Module1 = 88, 116, 701, 540, C
